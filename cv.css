@@ -1,0 +1,24 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+#main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#contact > h2 {
+  text-align: center;
+}
+
+#email {
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  text-decoration: none;
+}
+
+.employment {
+}
