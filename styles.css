@@ -7,18 +7,16 @@ body {
   margin: 0 auto;
 }
 
-#contact > h2 {
+#name {
+  margin: auto;
   text-align: center;
 }
 
-#email {
+#contact {
   display: flex;
   justify-content: space-between;
 }
 
 a {
   text-decoration: none;
-}
-
-.employment {
 }
